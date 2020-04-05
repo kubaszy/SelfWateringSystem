@@ -2,8 +2,11 @@
 This project can realize self watering system. The aim of the project was to design and create a system(robot).
 
 # What does the system look like?
-
-
+![Project1](./img/a.png)
+![Project2](./img/b.png)
+![Modify web](./img/c.png)
+![Home web](./img/d.png)
+![Algorithm schema](./img/e.png)
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
