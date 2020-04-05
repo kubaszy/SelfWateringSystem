@@ -1,12 +1,40 @@
 # SelfWateringSystem 
 This project can realize self watering system. The aim of the project was to design and create a system(robot).
+Home page You can visit on kubaszy.pl
 
 # What does the system look like?
+### Model
 ![Project1](/img/a.PNG)
 ![Project2](/img/b.PNG)
+### Web page for parameter modification
 ![Modify web](/img/c.PNG)
+### Web page for vizualization data
 ![Home web](/img/d.PNG)
+### Algoritm schema
 ![Algorithm schema](/img/e.PNG)
+
+# Technologies
+- PHP
+- mySql
+- Bootstrap
+- Ajax
+- jQuery
+- JavaScript
+- Echarts
+- C 
+- HTML 
+- CSS
+
+# Features
+- Automatic watering of plants
+- Measurement: soil moisture, air humidity, temperature, sun insolation, 
+- Data visualization on the website
+- You can water the plants from the website
+- Smart tips: how better to take care of the plant
+- Emergency power supply
+- Own CMS system
+- Data validation and asynchronous write to the database
+- Send email if the water level drops
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
