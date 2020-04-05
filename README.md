@@ -3,10 +3,10 @@ This project can realize self watering system. The aim of the project was to des
 
 # What does the system look like?
 ![Project1](/img/a.PNG)
-![Project2](/img/b.png)
-![Modify web](/img/c.png)
-![Home web](/img/d.png)
-![Algorithm schema](/img/e.png)
+![Project2](/img/b.PNG)
+![Modify web](/img/c.PNG)
+![Home web](/img/d.PNG)
+![Algorithm schema](/img/e.PNG)
 
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
